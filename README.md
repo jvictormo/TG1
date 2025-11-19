@@ -1,5 +1,7 @@
 # 🧑‍🎓 1 Apresentação do Aluno
 
+![Foto de perfil](/.assets/pfp.png)
+
 **Nome:** João Victor Menezes Oliveira  
 **Idade:** 21 anos  
 **Curso:** Análise e Desenvolvimento de Sistemas  
