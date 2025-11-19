@@ -16,7 +16,7 @@ A empresa realizava pesquisas de clima para avaliar o ambiente organizacional, m
 Essa falta de integração gerava retrabalho e impedia uma visão precisa sobre o desempenho dos gestores, equipes e colaboradores, prejudicando a tomada de decisão e o engajamento interno.
 
 ### 💡 Solução
-Criamos uma aplicação web em React que permite à empresa montar pesquisas de clima personalizadas, com perguntas dissertativas ou de múltipla escolha, categorizadas por temas. As respostas são armazenadas em um banco PostgreSQL, e os administradores podem visualizar os resultados em tempo real, com pontuações calculadas automaticamente.  
+Foi criada uma aplicação web em React que permite à empresa montar pesquisas de clima personalizadas, com perguntas dissertativas ou de múltipla escolha, categorizadas por temas. As respostas são armazenadas em um banco PostgreSQL, e os administradores podem visualizar os resultados em tempo real, com pontuações calculadas automaticamente.  
 Com isso, a plataforma trouxe centralização, agilidade e clareza no processo de avaliação interna, tornando a gestão de clima mais eficiente e interativa.
 
 ### 🙋‍♂️ Contribuições Pessoais
@@ -31,4 +31,4 @@ Atuei como Desenvolvedor sendo responsável por implementar a personalização d
 - **Git:** uso com autonomia
 
 ### 🤝 Soft Skills
-Durante o projeto, enfrentei divergências na estrutura de dados junto à equipe. Exercitei **comunicação e empatia** para discutir alternativas, alinhando ideias e encontrando a melhor forma de manter a integridade das informações no banco de dados, reforçando o trabalho em equipe.
+Durante o projeto, enfrentei diversos trechos de código desorganizados, especialmente na exibição das pesquisas no frontend. Isso me levou a praticar **comunicação e colaboração** com a equipe para refatorarmos parte do código, tornando-o mais limpo e claro. Também aproveitei para reforçar a importância de um código bem estruturado e do trabalho em equipe, evitando que o problema se repetisse no futuro.

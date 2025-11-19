@@ -21,7 +21,7 @@ Foi desenvolvida uma plataforma web em React que permite cadastrar e gerenciar p
 A solução trouxe organização, transparência e acessibilidade, modernizando o fluxo de trabalho da empresa e facilitando o acompanhamento de resultados.
 
 ### 🙋‍♂️ Contribuições Pessoais
-Atuei como Desenvolvedor, responsável por implementar a relação hierárquica entre projetos, etapas e tarefas, garantindo a conclusão automática de etapas e projetos conforme o progresso.  
+Atuei como Desenvolvedor, responsável por implementar a relação hierárquica entre projetos, etapas e tarefas, De forma direta, melhore a gramatica e a ortografia desse texto.  
 Também implementei o sistema de cadastro e autenticação via FireBase, incluindo o recurso de reset de senha e atribuição de usuários a projetos. Criei ainda uma função que permite associar membros externos, para que novos cadastros recebam automaticamente seus projetos no painel principal.
 
 ### 💪 Hard Skills
@@ -33,4 +33,4 @@ Também implementei o sistema de cadastro e autenticação via FireBase, incluin
 - **Git:** uso com autonomia
 
 ### 🤝 Soft Skills
-Durante o projeto, enfrentei diversos códigos inconsistentes e precisei aplicar **colaboração e pensamento crítico** para, junto à equipe, refatorar trechos e aprimorar a estrutura geral da aplicação dentro do prazo. Essa experiência reforçou minha **resiliência e foco em resultados**.
+Durante o projeto, enfrentei diversos códigos inconsistentes. A cada nova funcionalidade, eles se tornavam destoantes, gerando conflitos e exigindo explicações constantes para os outros membros da equipe. Por isso, apliquei **colaboração e pensamento crítico** para, junto ao time, alinhar os trechos conflitantes e sugerir que comentássemos o código para deixar as funcionalidades mais claras e evitar problemas futuros. Essa experiência reforçou minha **resiliência e foco em resultados**.

@@ -17,8 +17,11 @@
 
 ## 💡 Motivação para Ingressar na FATEC
 
-Após cursar Psicologia e perceber que não era minha verdadeira vocação, decidi seguir minha paixão por **Tecnologia da Informação**.  
-Inicialmente, pretendia ingressar na **FATEC**, mas perdi o prazo de inscrição. Mesmo assim, insisti e consegui entrar logo em seguida. Desde então, tenho aprendido intensamente sobre a área e confirmado meu interesse pela tecnologia.
+Desde pequeno, sempre fui fascinado por tecnologia. Adorava mexer no computador, explorar cada função e descobrir algo novo a cada dia. Para mim, parecia óbvio que meu caminho profissional seria na área de TI.
+No terceiro ano do ensino médio, decidi apostar nesse sonho e me inscrevi para faculdades como UNICAMP e USP. Passei na primeira fase de ambas, mas uma conversa específica acabou mudando meus planos. Ao ouvir o relato de um profissional da área, visivelmente descontente com a própria carreira, senti um receio que até então não existia. Aquilo abalou minhas certezas e, tomado pela dúvida, desisti temporariamente da formação em tecnologia e ingressei em um cursinho pré-vestibular.
+Durante o cursinho, fiz um aconselhamento profissional. O resultado apontou a psicologia como uma opção promissora. Com essa indicação e uma bolsa de estudos que consegui na PUC Minas, decidi experimentar uma nova direção. No entanto, após um semestre de curso, percebi que aquela não era minha vocação. Foi então, no tempo livre, que fiz um curso gratuito de programação na internet e esse simples passo reacendeu totalmente minha paixão por **Tecnologia da Informação**, e me fez querer sair do curso em que eu estvava para cursar algo na área de TI.  
+Minha intenção passou a ser ingressar na **FATEC**, mas como havia deixado a faculdade de psicologia em fevereiro, o prazo de inscrições já tinha se encerrado. Para não ficar parado, me matriculei na UNIP e cursei um semestre de Análise e Desenvolvimento de Sistemas enquanto aguardava o próximo vestibular da FATEC. Quando finalmente prestei a prova, fui aprovado e pude realizar a transferência.
+Desde então, tenho mergulhado intensamente no universo da tecnologia. Cada aula, projeto e desafio só reafirma aquilo que, no fundo, sempre esteve claro: meu lugar é na área de TI.
 
 ---
 

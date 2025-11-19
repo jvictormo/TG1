@@ -19,7 +19,7 @@ Dessa forma, colaboradores de diferentes áreas passaram a realizar consultas co
 
 ### 🙋‍♂️ Contribuições Pessoais
 Atuei como Scrum Master, sendo responsável pela coordenação da equipe e pela definição das prioridades de desenvolvimento. Contribuí no planejamento da arquitetura da aplicação, participei da modelagem do banco de dados e realizei a integração do LangChain com o modelo local (LM Studio) e com o banco SQL.  
-Além disso, conduzi testes de desempenho, corrigi *bugs* e participei ativamente da refatoração do código, otimizando o tempo de resposta da aplicação. Trabalhei também para manter a comunicação fluida e garantir a entrega dentro do cronograma proposto pelo cliente.
+Além disso, conduzi testes de desempenho com base no tempo de resposta, corrigi *bugs* como a falta de consistencia da IA, e participei ativamente da refatoração do código, otimizando o tempo de resposta da aplicação. Trabalhei também para manter a comunicação fluida e garantir a entrega dentro do cronograma proposto pelo cliente.
 
 ### 💪 Hard Skills
 - **Java:** uso com auxílio  
@@ -28,4 +28,4 @@ Além disso, conduzi testes de desempenho, corrigi *bugs* e participei ativament
 - **Git:** uso com autonomia  
 
 ### 🤝 Soft Skills
-Durante o projeto, utilizei **proatividade** para aprofundar meus conhecimentos em Java e LangChain, a fim de solucionar o problema de lentidão da aplicação. Essa atitude me ajudou a **desenvolver autonomia técnica**, aprimorar meu raciocínio lógico e fortalecer minha **capacidade de adaptação** diante de novos desafios.
+Durante o projeto, utilizei **proatividade** para aprofundar meus conhecimentos em Java e LangChain, com o objetivo de solucionar o problema de lentidão da aplicação. Para isso, desenvolvi um prompt mais específico, reduzindo a margem de interpretação da IA e, consequentemente, diminuindo sua taxa de "alucinação". Essa atitude me ajudou a **desenvolver autonomia técnica**, aprimorar meu raciocínio lógico e fortalecer minha **capacidade de adaptação** diante de novos desafios.

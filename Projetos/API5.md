@@ -16,7 +16,7 @@ Em regiões rurais, muitos moradores não possuem endereços oficiais reconhecid
 Isso cria uma barreira de acessibilidade tanto para os moradores quanto para empresas e órgãos públicos que necessitam localizar essas propriedades.
 
 ### 💡 Solução
-Desenvolvemos uma aplicação mobile e web em React Native e FastAPI, que permite ao morador registrar um ponto georreferenciado em seu terreno, vinculando-o ao CPF e ao código CAR. Assim, o local passa a funcionar como um endereço digital, permitindo que qualquer usuário trace rotas até ele.  
+Foi desenvolvido uma aplicação mobile e web em React Native e FastAPI, que permite ao morador registrar um ponto georreferenciado em seu terreno, vinculando-o ao CPF e ao código CAR. Assim, o local passa a funcionar como um endereço digital, permitindo que qualquer usuário trace rotas até ele.  
 Além do app de navegação, há um portal web administrativo, onde a empresa pode gerenciar alertas, condições meteorológicas e dados de cadastro, centralizando todas as informações do sistema.
 
 ### 🙋‍♂️ Contribuições Pessoais
@@ -32,4 +32,4 @@ No desenvolvimento, implementei o cadastro, autenticação e recuperação de se
 - **Git:** uso com autonomia
 
 ### 🤝 Soft Skills
-Durante o projeto, precisei exercitar **adaptabilidade** e **organização** para ajustar continuamente a documentação conforme o avanço do time. Busquei formas mais eficientes de descrever as funcionalidades, otimizando a comunicação e garantindo clareza na execução das tarefas.
+Durante o projeto, precisei exercitar **adaptabilidade** e **organização** para ajustar continuamente a documentação conforme o avanço do time.Busquei formas mais eficientes de descrever as funcionalidades, utilizando exemplos de aplicações existentes e conhecidas para reduzir o tamanho das descrições e diminuir a margem para interpretações individuais. Otimizando assim a comunicação e garantindo clareza na execução das tarefas.
